@@ -1,1 +1,2 @@
-Нужно допилить бд к боту, т.к. без бд он работает только для 1 человека с пк или для 2 человек при игре друг против друга
+You need to add a database to the bot, because without a database, it only works for 1 person with a PC or for 2 people when playing against each other
+And also config.py is just a file with bot token, to make the bot work, you just need to insert your bot token into the TOKEN variable
